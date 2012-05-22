@@ -1,6 +1,8 @@
-# Michael Gerbush
-### <msgerbush@gmail.com>
-### (516) 319-8174
+<div id="header">
+	<h1>Michael Gerbush</h1>
+	<h3><a href="mailto:msgerbush@gmail.com">msgerbush@gmail.com</a></h3>
+	<h3><a href="tel:5163198174">(516) 319-8174</a></h3>
+</div>
 
 ## Background
  
@@ -68,11 +70,11 @@ I strive to be a quick learner and both a competent leader and capable worker. I
 
 <h3>University of Texas at Austin, <small>2009 - 2012</small></h3>
 
-#### M.S. in Computer Science
+M.S. in Computer Science
 
 <h3>Williams College, <small>2005 - 2009</small></h3>
 
-#### B.A. Computer Science *with honors* and Physics, Cum Laude  
+B.A. Computer Science *with honors* and Physics, Cum Laude  
 
 GPA: 3.9 in major, 3.7 overall
 

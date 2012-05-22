@@ -67,7 +67,7 @@ task :github do
     'resume.txt',
   ]
 
-  files = files + Dir.entries("public").keep_if {|file| File.file? "public/#{file}"}
+  files = files + Dir.entries("public").keep_if {|file| (file != ".DS_Store") && File.file?("public/#{file}") }
 
   root = "/tmp/checkout-#{Time.now.to_i}"
   g = Git.clone(remote, root, :log => Logger.new(STDOUT))
