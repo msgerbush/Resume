@@ -1,63 +1,120 @@
-# Nathaniel Welch
-
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+# Michael Gerbush
+### <msgerbush@gmail.com>
+### (516) 319-8174
 
 ## Background
-
+ 
+Not sure what to put here yet.  Something about how pretty and special I am.
+<!---
 I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for man kind. 
 
 I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
-
-## Education
-
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
-
-## Proficiency
-
-I have been writing code, running servers and experimenting with new software since 2002. Most recently the majority of code I have written has been in Java, Ruby, Javascript and Bash, but I have experience in C, Python, SML/NJ, C++, SQL and F#.
+--->
 
 ## Experience
 
-### Google.com, San Francisco, CA
+<div id="skills" class="sidebar clearfix">
+	<h3>Programming</h3>
+	<ol dir="rtl">
+		<li>Ruby <em>+ Rails</em></li>
+		<li>
+			<p>HTML</p>
+			<p>CSS</p>
+			<p>jQuery</p>
+		</li>
+		<li>
+			<p>Python</p>
+			<p>Java</p>
+			<p>C++</p>
+			<p>Lisp</p>
+			<p>TeX</p>
+		</li>
+	</ol>
+	
+	<h3>Tools</h3>
+	<ul dir="rtl">
+		<li>Git/SVN</li>
+		<li>Photoshop</li>
+	</ul>
+</div>
 
-#### Software Engineer - August 2011 to Present 
+<h3>Spiceworks, <small>Software Developer, 2011 - Present</small></h3>
 
-So far at Google I have worked on the Google Loyalty platform and on the Google Cloud Services platform.
+* Designed and engineered new Cloud Service management tool with 2 other developers in first 4 months at Spiceworks
+* Designed and built UI for tracking cloud services, using Ruby modules and jQuery plugins, which have become the foundation for a new, internal UI toolkit
+* Started first Spiceworks hack-week, generating 20+ new projects and featured in the WSJ 
+* Attended conferences and conducted interviews to help grow the Spiceworks development team
+ 
+<h3>University of Texas at Austin, <small>Graduate Research Assistant, 2009 - 2011</small></h3>
 
-### Punchd, Mountain View, CA
+* Developed new techniques for proving security of digital signature schemes
+* Created and implemented attacks on the SCiFI secure face identification system in Java
+* Helped to improve the known security of the Camenisch-Lysyanskaya signature scheme
 
-#### Software Developer - May 2011 to July 2012
+## Education
 
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. Once at Google I continued to maintain Punchd's servers, backend API and web frontend. I also helped implement a version of Punchd built on Google's infrastructure, but it was never released.
+<div id="honors" class="sidebar clearfix">
+	<h3>Honors</h3>
+	<ul dir="rtl">
+		<li>NSF Graduate Research Fellowship HM, UT-Austin 2011</li>
+		<li>Sam Goldberg Colloquium Prize, Williams College 2009</li>
+		<li>Dean’s Excellence Award, UT-Austin 2009</li>
+		<li>Sigma Xi, Science Research Honors Society, 2009</li>
+		<li>Dean’s List, Williams College 2005-2009</li>
+		<li>National Merit Finalist, 2005</li> 
+		<li>National AP Scholar with Distinction 2005</li>
+	</ul>
+</div>
 
-### iFixit.com, San Luis Obispo CA
+<h3>University of Texas at Austin, <small>2009 - 2012</small></h3>
 
-#### Software Developer - April 2009 to April 2011
+#### M.S. in Computer Science
 
-I wore a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I wrote code mainly in PHP and Bash, and helped maintain our fleet of servers on Amazon's EC2 Service. 
+<h3>Williams College, <small>2005 - 2009</small></h3>
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
+#### B.A. Computer Science *with honors* and Physics, Cum Laude  
 
-### Adobe Systems Incorporated, San Francisco CA
+GPA: 3.9 in major, 3.7 overall
 
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
+## Projects
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
+<h3>Sentiment Analysis of Tweets from the Occupy Movement, <small>Cognitive Science, UT-Austin</small><span class="date">2011</span></h3>
 
-### BSA Camp Oljato, Lakeshore CA
+* Collected tweets related to the Occupy movement using the Twitter stream API and conducted a sentiment analysis using Python and SciPy to gauge the emotional response of different US cities throughout the movement
 
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
+<h3>Reversing SCiFI: Breaking Secure Facial Recognition, <small>Cryptography Research, UT-Austin</small><span class="date">2011</span></h3>
 
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks per summer.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others to children ages ten to eighteen.
+* Proved and implemented in Java a cryptographic attack on SCiFI, a well-regarded, secure facial recognition algorithm
 
+<h3>Synthesizing 3D Textures from 2D Exemplars, <small>Computer Graphics, UT-Austin</small><span class="date">2010</span></h3>
+
+* Implemented techniques from *SIGGRAPH 2007* for intelligently synthesizing 3D textures from 2D exemplars, using C++ and OpenGL.
+
+<h3>Approximating Stack Covers, <small>Senior Thesis, Williams College</small><span class="date">2009</span></h3>
+
+* Developed a natural generalization to an open combinatorial problem and established dual 
+bounds for the complexity of finding an approximate solution  
+* Awarded the Sam Goldberg Colloquium Prize for presenting the work, which was published in *CIAA 2010*
+
+<h3>Creating 3D Models from Video Input, <small>Computer Graphics, Williams College</small><span class="date">2008</span></h3>
+
+* Developed software in C++, using G3D and OpenCV libraries, to analyze video from a handheld video camera and create a 3D model of the filmed object
+
+<h3>Winning Formula: Learning to Predict College Basketball Games, <small>Artificial Intelligence, Williams College</small><span class="date">2007</span></h3>
+
+* Implemented (in Lisp) and analyzed the performance of Genetic Programming algorithms
+on predicting results for the NCAA Men’s Basketball Championship
+
+<h3>Color-octet scalars at the CERN LHC, <small>Physics Research Assistant, Williams College</small><span class="date">2007</span></h3>
+
+* Developed C++, Fortran, and Perl programs to analyze large data sets from particle accelerator simulations
+* Helped design new techniques for finding significant events amongst background noise.  The work was published in *Physical Review D*
+
+## Hobbies
+* Assistant Coach, University of Texas Men's Lacrosse Club
+* Captain and DIII All-American Lacrosse Goalie, Williams College
+
+## Publications
+* Michael Gerbush, Allison Lewko, Adam O’Neill, and Brent Waters. Dual form signatures: An approach for proving security from static assumptions. [Cryptology ePrint Archive](http://eprint.iacr.org/), Report 2012/261, 2012.
+* Michael Gerbush and Brent Heeringa. “Approximating Minimum Reset Sequences”. In Proceedings of CIAA, 2010. 
+* Michael Gerbush, Teng Jian Khoo, Daniel J. Phalen, Aaron Pierce, and David Tucker-Smith (2008), “Color-octet scalars at the CERN LHC”, Physical Review D 77:095003
