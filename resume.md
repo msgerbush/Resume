@@ -6,17 +6,11 @@
 
 ## Background
  
-As a software developer, I am interested in building products that improve people's lives and that they enjoy using.  I come from a strong theoretical background, but I take pride in being able to learn technologies quickly and get things done.
+As a software developer, I am interested in building products that both improve people's lives and that they enjoy using.  I come from a strong theoretical background, but I take pride in learning new technologies quickly and getting things done.
 
-After earning my M.S. at the University of Texas, I left the CS Ph.D. program to join the fast and competitive environment of technology startups with Spiceworks. Since then, I have been given the opportunity to take ownership of large projects and take on many different responsibilities within the company.  
+After earning my M.S. in Computer Science at the University of Texas, I left the Ph.D. program to join Spiceworks and the fast, competitive environment of technology startups. Since then, I have been given the opportunity to take ownership of large projects and take on many different responsibilities within the company.  
 
 Prior to graduate school, I was a CS and Physics double major and an All-American lacrosse goalie at Williams College.  Outside of work, I spend my free time as an Assistant Coach for the University of Texas club lacrosse team.
-
-<!---
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for man kind. 
-
-I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
---->
 
 ## Experience
 
