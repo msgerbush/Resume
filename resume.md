@@ -151,6 +151,6 @@ GPA: 3.9 in major, 3.7 overall
 * Captain and DIII All-American Lacrosse Goalie, Williams College
 
 ## Publications
-* Michael Gerbush, Allison Lewko, Adam O’Neill, and Brent Waters. Dual form signatures: An approach for proving security from static assumptions. [Cryptology ePrint Archive](http://eprint.iacr.org/), Report 2012/261, 2012.
-* Michael Gerbush and Brent Heeringa. “Approximating Minimum Reset Sequences”. In Proceedings of CIAA 2010. 
-* Michael Gerbush, Teng Jian Khoo, Daniel J. Phalen, Aaron Pierce, and David Tucker-Smith (2008), “Color-octet scalars at the CERN LHC”, Physical Review D 77:095003.
+* Michael Gerbush, Allison Lewko, Adam O’Neill, and Brent Waters. Dual form signatures: An approach for proving security from static assumptions. [*Cryptology ePrint Archive*](http://eprint.iacr.org/), Report 2012/261, 2012.
+* Michael Gerbush and Brent Heeringa. “Approximating Minimum Reset Sequences”. In Proceedings of *CIAA 2010*. 
+* Michael Gerbush, Teng Jian Khoo, Daniel J. Phalen, Aaron Pierce, and David Tucker-Smith (2008), “Color-octet scalars at the CERN LHC”, *Physical Review D* 77:095003.
