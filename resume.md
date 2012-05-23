@@ -4,14 +4,6 @@
 	<h3><a href="tel:5163198174">(516) 319-8174</a></h3>
 </div>
 
-## Background
- 
-As a software developer, I am interested in building products that both improve people's lives and that they enjoy using.  I come from a strong theoretical background, but I take pride in learning new technologies quickly and getting things done.
-
-After earning my M.S. in Computer Science at the University of Texas, I left the Ph.D. program to join Spiceworks and the fast, competitive environment of technology startups. Since then, I have been given the opportunity to take ownership of large projects and take on many different responsibilities within the company.  
-
-Prior to graduate school, I was a CS and Physics double major and an All-American lacrosse goalie at Williams College.  Outside of work, I spend my free time as an Assistant Coach for the University of Texas club lacrosse team.
-
 ## Experience
 
 <h3>Spiceworks, <small>Software Developer, 2011 - Present</small></h3>
@@ -28,37 +20,6 @@ Prior to graduate school, I was a CS and Physics double major and an All-America
 * Developed new techniques for proving security of digital signature schemes
 * Created and implemented attacks on the SCiFI secure face identification system in <span class="language">Java</span>
 * Helped to improve the known security of the Camenisch-Lysyanskaya signature scheme
-
-## Education
-
-<div id="honors" class="sidebar clearfix">
-	<h3>Honors</h3>
-	<ul>
-		<li>NSF Graduate Research Fellowship HM, UT-Austin 2011</li>
-		<li>Sam Goldberg Colloquium Prize, Williams College 2009</li>
-		<li>Dean’s Excellence Award, UT-Austin 2009</li>
-		<li>Sigma Xi, Science Research Honors Society, 2009</li>
-		<li>Dean’s List, Williams College 2005-2009</li>
-		<li>National Merit Finalist, 2005</li> 
-		<li>National AP Scholar with Distinction 2005</li>
-	</ul>
-</div>
-
-<div id="schools">
-	<h3>University of Texas at Austin, <small>2009 - 2012</small></h3>
-	
-	<p>M.S. in Computer Science</p>
-	
-	<p>Advisor: Brent Waters</p>
-	
-	<h3>Williams College, <small>2005 - 2009</small></h3>
-		
-	<p>B.A. Computer Science <em>with honors</em> and Physics, Cum Laude</p>
-	
-	<p>Advisor: Brent Heeringa</p>
-	
-	<p>GPA: 3.9 in major, 3.7 overall</p>
-</div>
 
 ## Projects
 
@@ -146,6 +107,37 @@ Prior to graduate school, I was a CS and Physics double major and an All-America
 		<li>Developed <span class="language">C++</span>, <span 		class="language">Fortran</span>, and <span class="language">Perl</span> programs to analyze large data sets from particle accelerator simulations</li>
 		<li>Helped design new techniques for finding significant events amongst background noise.  The work was published in <em>Physical Review D</em></li>
 	</ul>
+</div>
+
+## Education
+
+<div id="honors" class="sidebar clearfix">
+	<h3>Honors</h3>
+	<ul>
+		<li>NSF Graduate Research Fellowship HM, UT-Austin 2011</li>
+		<li>Sam Goldberg Colloquium Prize, Williams College 2009</li>
+		<li>Dean’s Excellence Award, UT-Austin 2009</li>
+		<li>Sigma Xi, Science Research Honors Society, 2009</li>
+		<li>Dean’s List, Williams College 2005-2009</li>
+		<li>National Merit Finalist, 2005</li> 
+		<li>National AP Scholar with Distinction 2005</li>
+	</ul>
+</div>
+
+<div id="schools">
+	<h3>University of Texas at Austin, <small>2009 - 2012</small></h3>
+	
+	<p>M.S. in Computer Science</p>
+	
+	<p>Advisor: Brent Waters</p>
+	
+	<h3>Williams College, <small>2005 - 2009</small></h3>
+		
+	<p>B.A. Computer Science <em>with honors</em> and Physics, Cum Laude</p>
+	
+	<p>Advisor: Brent Heeringa</p>
+	
+	<p>GPA: 3.9 in major, 3.7 overall</p>
 </div>
 
 ## Hobbies
