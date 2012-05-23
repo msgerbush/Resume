@@ -6,7 +6,12 @@
 
 ## Background
  
-Not sure what to put here yet.  Something about how pretty and special I am.
+As a software developer, I am interested in building products that improve people's lives and that they enjoy using.  I come from a strong theoretical background, but I take pride in being able to learn technologies quickly and get things done.
+
+After earning my M.S. at the University of Texas, I left the CS Ph.D. program to join the fast and competitive environment of technology startups with Spiceworks. Since then, I have been given the opportunity to take ownership of large projects and take on many different responsibilities within the company.  
+
+Prior to graduate school, I was a CS and Physics double major and an All-American lacrosse goalie at Williams College.  Outside of work, I spend my free time as an Assistant Coach for the University of Texas club lacrosse team.
+
 <!---
 I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for man kind. 
 
@@ -18,10 +23,11 @@ I strive to be a quick learner and both a competent leader and capable worker. I
 <h3>Spiceworks, <small>Software Developer, 2011 - Present</small></h3>
 
 * Designed and engineered new Cloud Service management tool with 2 other developers in first 4 months at Spiceworks
-* Designed and built UI for tracking cloud services, using <span class="language">Ruby</span> modules and <span class="language">jQuery</span> plugins, which have become the foundation for a new, internal UI toolkit
+* Designing and building new <span class="language">Javascript</span> API for Cloud Service integration platform
+* Designed and built UI for tracking cloud services, using <span class="language">Ruby</span> modules and <span class="language">jQuery</span> plugins, which have become the beginnings for a new internal UI toolkit
 * Started first Spiceworks hack-week, generating 20+ new projects and featured in the WSJ 
-* Attended conferences and conducted interviews to help grow the Spiceworks development team
-* Hosted quarterly webinar to teach users about our software
+* Attend conferences and conduct interviews to help grow the Spiceworks development team
+* Host quarterly webinar to teach users about our software
  
 <h3>University of Texas at Austin, <small>Graduate Research Assistant, 2009 - 2011</small></h3>
 
@@ -44,19 +50,21 @@ I strive to be a quick learner and both a competent leader and capable worker. I
 	</ul>
 </div>
 
-<h3>University of Texas at Austin, <small>2009 - 2012</small></h3>
-
-M.S. in Computer Science
-
-Advisor: Brent Waters
-
-<h3>Williams College, <small>2005 - 2009</small></h3>
-
-B.A. Computer Science *with honors* and Physics, Cum Laude  
-
-Advisor: Brent Heeringa
-
-GPA: 3.9 in major, 3.7 overall
+<div id="schools">
+	<h3>University of Texas at Austin, <small>2009 - 2012</small></h3>
+	
+	<p>M.S. in Computer Science</p>
+	
+	<p>Advisor: Brent Waters</p>
+	
+	<h3>Williams College, <small>2005 - 2009</small></h3>
+		
+	<p>B.A. Computer Science <em>with honors</em> and Physics, Cum Laude</p>
+	
+	<p>Advisor: Brent Heeringa</p>
+	
+	<p>GPA: 3.9 in major, 3.7 overall</p>
+</div>
 
 ## Projects
 
