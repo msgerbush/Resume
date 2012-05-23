@@ -1,5 +1,5 @@
 <div id="header">
-	<h1>Michael Gerbush</h1>
+	<h1><big>M</big>ichael <big>G</big>erbush</h1>
 	<h3><a href="mailto:msgerbush@gmail.com">msgerbush@gmail.com</a></h3>
 	<h3><a href="tel:5163198174">(516) 319-8174</a></h3>
 </div>
