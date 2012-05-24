@@ -9,9 +9,9 @@
 <h3>Spiceworks, <small>Software Developer, 2011 - Present</small></h3>
 
 * Designing and building new <span class="language">Javascript</span> API for Cloud Service integration platform
-* Designed and built UI for tracking cloud services, using <span class="language">Ruby</span> modules and <span class="language">jQuery</span> plugins, which have become the beginnings for a new, internal UI toolkit
-* Designed and engineered new Cloud Service management tool with two other developers in first four months at Spiceworks
-* Started first Spiceworks hack-week, generating 20+ new projects and featured in the WSJ 
+* Designed and built UI for tracking cloud services, using <span class="language">Ruby</span> modules and <span class="language">jQuery</span> plugins, which have become the beginnings for a new, internal UI toolkit.  This feature was highlighted by multiple technology journals, including [MarketWatch](http://www.marketwatch.com/story/spiceworks-launches-free-cloud-service-detection-features-for-small-and-mid-sized-businesses-2012-05-24) and [ReadWriteWeb](http://www.readwriteweb.com/cloud/2012/05/keeping-your-cloud-presence-straight-spiceworks-launches-free-detection-feature.php).
+* Designed and engineered new Cloud Service management tool with two other developers in first four months at Spiceworks.
+* Started first Spiceworks hack-week, generating 20+ new projects and featured in the [WSJ](http://online.wsj.com/article/SB10001424052702303459004577360443194890860.html) 
 * Attend conferences and conduct interviews to help grow the Spiceworks development team
 * Host quarterly webinar to teach users about our software
  
