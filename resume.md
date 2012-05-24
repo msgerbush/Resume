@@ -8,9 +8,9 @@
 
 <h3>Spiceworks, <small>Software Developer, 2011 - Present</small></h3>
 
-* Designed and engineered new Cloud Service management tool with 2 other developers in first 4 months at Spiceworks
 * Designing and building new <span class="language">Javascript</span> API for Cloud Service integration platform
-* Designed and built UI for tracking cloud services, using <span class="language">Ruby</span> modules and <span class="language">jQuery</span> plugins, which have become the beginnings for a new internal UI toolkit
+* Designed and built UI for tracking cloud services, using <span class="language">Ruby</span> modules and <span class="language">jQuery</span> plugins, which have become the beginnings for a new, internal UI toolkit
+* Designed and engineered new Cloud Service management tool with two other developers in first four months at Spiceworks
 * Started first Spiceworks hack-week, generating 20+ new projects and featured in the WSJ 
 * Attend conferences and conduct interviews to help grow the Spiceworks development team
 * Host quarterly webinar to teach users about our software
@@ -130,6 +130,8 @@
 	<p>M.S. in Computer Science</p>
 	
 	<p>Advisor: Brent Waters</p>
+	
+	<p>GPA: 3.8</p>
 	
 	<h3>Williams College, <small>2005 - 2009</small></h3>
 		
