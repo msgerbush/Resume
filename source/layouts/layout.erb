@@ -9,7 +9,6 @@
     <title><%= current_page.data.title || "Michael Gerbush" %></title>
 
     <%= stylesheet_link_tag :site %>
-    <%= javascript_include_tag :all %>
     <%= google_analytics_universal_tag %>
   </head>
 
@@ -22,5 +21,6 @@
     <div class="content">
       <%= yield %>
     </div>
+    <%#= javascript_include_tag :all %>
   </body>
 </html>
