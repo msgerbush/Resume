@@ -9,7 +9,7 @@
         tools market.
     - Designed and pitched solution to internal and external stakeholders.
     - Product plan helped sell data package of over $100K.
-    - Developed and then lead a team of 9 to build and launch the tool.
+    - Developed and then led a team of 9 to build and launch the tool.
     - Organized a private beta test and further interviews with beta users.
     - Continuously track and work to improve product growth.
   tools:
@@ -31,7 +31,7 @@
   url: 'https://community.spiceworks.com/appcenter/home'
   responsibilities:
     - >
-        Acted as lead developer building the App Center and architecting large
+        Acted as Lead Developer building the App Center and architecting large
         migration of old data.
     - Hired and led a team of 3 developers building App Center v2 in Ember.
     - Helped grow App Center to 2 teams of 15 people and tens of thousands of app downloads.
@@ -57,7 +57,7 @@
     - Designed and built developer tools and documentation for Spiceworks.
     - Architected JavaScript API for Spiceworks.
     - Worked closely with vendors and external developers to beta test APIs and build developer community.
-    - Lead a Development workshop with IBM at our user conference, Spiceworld Austin.
+    - Led a Development workshop with IBM at our user conference, Spiceworld Austin.
   tools:
     - JavaScript
     - postMessage
@@ -76,7 +76,7 @@
     - Designed and built a quiz app for more interactive campus recruiting sessions.
     - Built as a side project on a recruiting trip with one other developer.
     - Now used as the main recruiting tool at our campus info sessions.
-    - Used the project to demonstrate and evangalize a new Backbone architecture.
+    - Used the project to demonstrate and evangelize a new Backbone architecture.
   tools:
     - Ruby
     - Rails
@@ -92,7 +92,7 @@
   url: 'https://www.spiceworks.com/free-cloud-computing-management-tools/'
   responsibilities:
     - >
-        In second year at Spiceworks, lead a team of 5 in designing and developing a large new feature in our
+        In second year at Spiceworks, led a team of 5 in designing and developing a large new feature in our
         Desktop application.
     - Helped standardize company-wide practices around UI modules and Backbone framework.
   tools:
