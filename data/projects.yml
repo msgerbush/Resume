@@ -55,7 +55,10 @@
   url: 'https://developers.spiceworks.com'
   responsibilities:
     - Designed and built developer tools and documentation for Spiceworks
-    - Architected JavaScript API for Spiceworks
+    - >
+        Architected JavaScript API for Spiceworks (
+        <a class='project__inner-link' href='https://developers.spiceworks.com/documentation/cloud-apps/'>Docs</a> /
+        <a class='project__inner-link' href='https://github.com/spiceworks/spiceworks-js-sdk'>GitHub</a>)
     - Worked closely with vendors and external developers to beta test APIs and build developer community
     - Led a Development workshop with IBM at our user conference, Spiceworld Austin
   tools:
