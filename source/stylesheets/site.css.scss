@@ -8,7 +8,8 @@
   border: 1px solid $light-tan;
 }
 
-.personal-info__email {
+.personal-info__email,
+.personal-info__title {
   color: $light-red;
 }
 
@@ -17,14 +18,14 @@
   @include span(8);
   @include push(2);
   + .section {
-    padding-top: rhythm(1);
+    padding-top: rhythm(2);
   }
 }
 
 .section__header {
-  @include adjust-font-size-to(24px);
+  @include adjust-font-size-to(28px);
   text-align: center;
-  color: $light-grey;
+  color: $dark-grey;
   margin: rhythm(1) 0;
 }
 
@@ -50,6 +51,10 @@
   color: $light-tan;
 }
 
+.role__responsibilities + .role__responsibilities {
+  margin-top: rhythm(0.5);
+}
+
 .role + .role {
   margin-top: rhythm(1);
 }
@@ -60,6 +65,7 @@
 }
 
 .date {
+  @include nowrap;
   margin-left: 5px;
   color: $light-tan;
 }
@@ -92,10 +98,10 @@
 .project {
   position: relative;
   background-color: $dark-blue;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   opacity: 0.85;
   color: white;
-  border-radius: 3px;
-  transition: opacity .25s ease-in-out;
+  transition: opacity .25s ease-in-out, box-shadow .25s ease-in-out;
 
   a {
     @include unstyled-link;
@@ -103,6 +109,7 @@
 
   &:hover {
     opacity: 0.95;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 
     .project__image {
       width: span(3.5);

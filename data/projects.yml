@@ -1,17 +1,17 @@
 - title: Spiceworks Cloud Cost Monitor
-  role: Developer &amp; Product Manager, Spiceworks
+  role: Lead Developer &amp; Product Manager, Spiceworks
   date: 2016
   image: cloud-money.svg
-  url: 'https://community.spiceworks.com/blogs/products/2434-manage-your-spending-on-iaas-with-the-cloud-cost-monitor?page=1#37153'
+  url: 'https://community.spiceworks.com/blogs/products/2434-manage-your-spending-on-iaas-with-the-cloud-cost-monitor'
   responsibilities:
     - >
         Conducted user interviews and surveys to understand potential cloud
-        tools market.
-    - Designed and pitched solution to internal and external stakeholders.
-    - Product plan helped sell data package of over $100K.
-    - Developed and then led a team of 9 to build and launch the tool.
-    - Organized a private beta test and further interviews with beta users.
-    - Continuously track and work to improve product growth.
+        tools market
+    - Designed and successfully pitched solution to internal and external stakeholders
+    - Product plan helped sell data package of over $100K
+    - Developed and then led a team of 9 to build and launch the tool
+    - Organized a private beta test and further interviews with beta users
+    - Continuously track and work to improve product growth
   tools:
     - Ruby
     - Rails
@@ -32,12 +32,12 @@
   responsibilities:
     - >
         Acted as Lead Developer building the App Center and architecting large
-        migration of old data.
-    - Hired and led a team of 3 developers building App Center v2 in Ember.
-    - Helped grow App Center to 2 teams of 15 people and tens of thousands of app downloads.
-    - Independently researched and designed platform architecture for Spiceworks Desktop.
-    - Pitched platform design to Spiceworks executive team.
-    - Presented the Spiceworks App Center at our conference, Spiceworld London.
+        migration of old data
+    - Hired and led a team of 3 developers building App Center v2 in Ember
+    - Helped grow App Center to 2 teams of 15 people and tens of thousands of app downloads
+    - Independently researched and designed platform architecture for Spiceworks Desktop
+    - Pitched platform design to Spiceworks executive team
+    - Presented the Spiceworks App Center at our conference, Spiceworld London
   tools:
     - Ruby
     - Rails
@@ -54,10 +54,10 @@
   image: developer-center.png
   url: 'https://developers.spiceworks.com'
   responsibilities:
-    - Designed and built developer tools and documentation for Spiceworks.
-    - Architected JavaScript API for Spiceworks.
-    - Worked closely with vendors and external developers to beta test APIs and build developer community.
-    - Led a Development workshop with IBM at our user conference, Spiceworld Austin.
+    - Designed and built developer tools and documentation for Spiceworks
+    - Architected JavaScript API for Spiceworks
+    - Worked closely with vendors and external developers to beta test APIs and build developer community
+    - Led a Development workshop with IBM at our user conference, Spiceworld Austin
   tools:
     - JavaScript
     - postMessage
@@ -73,10 +73,10 @@
   image: quiz-app.png
   url: 'http://puzzle.spiceworks.com'
   responsibilities:
-    - Designed and built a quiz app for more interactive campus recruiting sessions.
-    - Built as a side project on a recruiting trip with one other developer.
-    - Now used as the main recruiting tool at our campus info sessions.
-    - Used the project to demonstrate and evangelize a new Backbone architecture.
+    - Designed and built a quiz app for more interactive campus recruiting sessions
+    - Built as a side project on a recruiting trip with one other developer
+    - Now used as the main recruiting tool at our campus info sessions
+    - Used the project to demonstrate and evangelize a new Backbone architecture
   tools:
     - Ruby
     - Rails
@@ -93,8 +93,8 @@
   responsibilities:
     - >
         In second year at Spiceworks, led a team of 5 in designing and developing a large new feature in our
-        Desktop application.
-    - Helped standardize company-wide practices around UI modules and Backbone framework.
+        Desktop application
+    - Helped standardize company-wide practices around UI modules and Backbone framework
   tools:
     - Ruby
     - Rails
@@ -112,8 +112,8 @@
   responsibilities:
     - >
         Collected tweets related to the Occupy movement and conducted a sentiment
-        analysis to gauge the emotional response of different US cities.
-    - Presented work at Dorkbot hackerspace in Austin, TX.
+        analysis to gauge the emotional response of different US cities
+    - Presented work at Dorkbot hackerspace in Austin, TX
   tools:
     - Python
     - ScipPy
@@ -128,8 +128,8 @@
   responsibilities:
     - >
         Proved and implemented a cryptographic attack on SCiFI, a well-regarded,
-        'secure' facial recognition algorithm.
-    - Work was published at <em>WACV 2013</em>.
+        'secure' facial recognition algorithm
+    - Work was published at <em>WACV 2013</em>
   tools:
     - Java
     - TeX
@@ -142,7 +142,7 @@
   responsibilities:
     - >
         Implemented techniques from <em>SIGGRAPH 2007</em> for intelligently
-        synthesizing 3D textures from 2D exemplars.
+        synthesizing 3D textures from 2D exemplars
   tools:
     - C++
     - OpenGL
@@ -156,10 +156,10 @@
     - >
         Developed a natural generalization to an open combinatorial
         problem and proposed dual bounds for the complexity of finding
-        an approximate solution.
+        an approximate solution
     - >
         Awarded the Sam Goldberg Colloquium Prize for presenting the work,
-        which was published in <em>CIAA 2010</em>.
+        which was published in <em>CIAA 2010</em>
   tools:
     - TeX
     - Keynote
