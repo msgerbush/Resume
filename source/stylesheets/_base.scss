@@ -1,0 +1,62 @@
+$base-font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$base-font-weight: 400;
+$base-font-color: #2B2C30;
+$rhythm-unit: 'rem';
+$round-to-nearest-half-line: true;
+
+@import "compass/reset";
+@import "compass/utilities";
+@import "compass/typography";
+@import "susy";
+
+// Typohgraphy baseline
+@include establish-baseline;
+
+// Grid params
+$susy: (
+  container: 80em,
+  columns: 12,
+  gutters: 1/4
+);
+
+// colors
+$light-grey: #D3CECB;
+$dark-grey: #BEBBB6;
+$light-red: #E76653;
+$light-tan: #C6A890;
+$dark-blue: $base-font-color;
+
+html {
+  // @include debug-vertical-alignment;
+  font-family: $base-font-family;
+  font-weight: $base-font-weight;
+  color: $base-font-color;
+}
+
+.hero {
+  background-color: $dark-blue;
+  color: white;
+  text-align: center;
+  padding: rhythm(3) 0;
+}
+
+.content {
+  @include container;
+  padding: rhythm(1) 0;
+}
+
+// Perfect fourth header sizing
+@each $header, $size in (h1: 51px, h2: 38px, h3: 28px, h4: 21px, h5: 16px, h6: 12px) {
+  #{$header} {
+    @include adjust-font-size-to($size);
+  }
+}
+
+a {
+  @include hover-link;
+  @include link-colors($light-red);
+}
+
+em {
+  font-style: italic;
+}

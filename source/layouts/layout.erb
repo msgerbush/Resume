@@ -6,15 +6,21 @@
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 
     <!-- Use title if it's in the page YAML frontmatter -->
-    <title><%= current_page.data.title || "Middleman" %></title>
-
-    <link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+    <title><%= current_page.data.title || "Michael Gerbush" %></title>
 
     <%= stylesheet_link_tag :site %>
     <%= javascript_include_tag :all %>
+    <%= google_analytics_universal_tag %>
   </head>
 
   <body class="<%= page_classes %>">
-    <%= yield %>
+    <% if content_for?(:hero) %>
+      <div class="hero">
+        <%= yield_content :hero %>
+      </div>
+    <% end %>
+    <div class="content">
+      <%= yield %>
+    </div>
   </body>
 </html>

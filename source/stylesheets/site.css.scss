@@ -1,67 +1,90 @@
 @charset "utf-8";
-@import "normalize";
+@import "base";
 
-body {
-  background: #ECC561;
+.personal-info {
+  width: span(4);
+  padding: rhythm(1) 0;
+  margin: auto;
+  border: 1px solid $light-tan;
+}
+
+.personal-info__email {
+  color: $light-red;
+}
+
+.section {
+  @include break;
+  @include span(8);
+  @include push(2);
+  + .section {
+    padding-top: rhythm(1);
+  }
+}
+
+.section__header {
+  @include adjust-font-size-to(24px);
   text-align: center;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1em;
+  color: $light-grey;
+  margin: rhythm(1) 0;
 }
 
-.logo img {
-  height: 18.75em;
-  margin-top: 6em;
+.subsection + .subsection {
+  padding-top: rhythm(1);
 }
 
-h1 {
-  color: rgba(0,0,0,0.5);
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.8em;
-  font-weight: 400;
-  margin: 0;
+.subsection {
+  @include break;
 }
 
-.doc {
-  margin: 3em 0;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.1em;
-  font-weight: 300;
+.subsection__header {
+  @include span(first 3);
+  color: $light-red;
+}
 
-  a {
-    border: 1px solid white;
-    border-radius: 3px;
-    padding: 0.75em 0.7em;
-    color: white;
-    text-decoration: none;
-    transition: color 0.1s linear;
-    &:hover {
-      background: rgba(0,0,0,0.2);
-      color: white;
-      transition: all 0.15s linear;
-    }
+.subsection__body {
+  @include push(3);
+}
+
+.organization__location,
+.school-info__location {
+  color: $light-tan;
+}
+
+.role + .role {
+  margin-top: rhythm(1);
+}
+
+.role__title,
+.degree__title {
+  display: inline;
+}
+
+.date {
+  margin-left: 5px;
+  color: $light-tan;
+}
+
+.language {
+  color: $light-red;
+}
+
+.publications {
+  li + li {
+    margin-top: rhythm(1);
   }
 }
 
-.welcome {
-  -webkit-animation-name: welcome;
-  -webkit-animation-duration: .9s;
+.project__responsibilities {
+  margin-left: 0;
+  padding-left: 1em;
+  text-indent: -1em;
+
+  li:before {
+    content: "-";
+    padding: 0 0.5em;
+  }
 }
 
-@-webkit-keyframes welcome {
-  from {
-    -webkit-transform: scale(0);
-    opacity: 0;
-  }
-  50% {
-   -webkit-transform: scale(0);
-   opacity: 0;
-  }
-  82.5% {
-    -webkit-transform: scale(1.03);
-    -webkit-animation-timing-function: ease-out;
-    opacity: 1;
-  }
-  to {
-    -webkit-transform: scale(1);
-  }
+.hobby-highlight {
+  color: $light-red;
 }

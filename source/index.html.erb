@@ -1,13 +1,213 @@
 ---
-title: Welcome to Middleman
+title: Michael Gerbush - Resume
 ---
 
-<div class="welcome">
-  <div class="logo">
-    <%= image_tag "middleman-logo.svg" %>
-  </div>
-  <h1>Middleman is Running</h1>
-  <p class="doc">
-    <%= link_to "Read Documentation Online", "https://middlemanapp.com", target: "_blank" %>
-  </p><!-- .doc -->
-</div><!-- .welcome -->
+<% content_for :hero do %>
+	<div class="personal-info">
+		<h1>Michael Gerbush</h1>
+		<span class="personal-info__email">msgerbush (at) gmail</span>
+	</div>
+<% end %>
+
+<div class="section">
+	<h2 class="section__header">Experience</h2>
+
+	<div class="organization subsection">
+		<div class="organization__info subsection__header">
+			<h4 class="organization__name"><a href="https://www.spiceworks.com">Spiceworks</a></h4>
+			<h5 class="organization__location">Austin, TX</h5>
+		</div>
+
+		<ol class="roles subsection__body">
+			<li class="role">
+				<h4 class="role__title">Technical Product Manager &amp; Staff Developer</h4>
+				<span class="role__date date">2015 - Present</span>
+				<ul class="role__responsibilities">
+					<li>Designing and building new
+						<span class="language">Javascript</span>
+						API for Cloud Service integration platform</li>
+					<li>Designed and built UI for tracking cloud services, using
+						<span class="language">Ruby</span>
+						modules and
+						<span class="language">jQuery</span>
+						plugins, which have become the beginnings for a new, internal UI toolkit. This feature was highlighted by multiple technology journals, including
+						<a href="http://www.marketwatch.com/story/spiceworks-launches-free-cloud-service-detection-features-for-small-and-mid-sized-businesses-2012-05-24">MarketWatch</a>
+						and
+						<a href="http://www.zdnet.com/blog/small-business-matters/is-your-smb-running-unauthorized-cloud-apps-find-out/2587">ZDNet</a>.</li>
+					<li>Designed and engineered new Cloud Service management tool with two other developers in first four months at Spiceworks.</li>
+					<li>Started first Spiceworks hack-week, generating 20+ new projects and featured in the
+						<a href="http://online.wsj.com/article/SB10001424052702303459004577360443194890860.html">WSJ</a>
+					</li>
+					<li>Attend conferences and conduct interviews to help grow the Spiceworks development team</li>
+					<li>Host quarterly webinar to teach users about our software</li>
+				</ul>
+			</li>
+			<li class="role">
+				<h4 class="role__title">Senior Software Developer</h4>
+				<span class="role__date date">2013 - 2015</span>
+				<ul class="role__responsibilities">
+					<li>Designing and building new
+						<span class="language">Javascript</span>
+						API for Cloud Service integration platform</li>
+					<li>Designed and built UI for tracking cloud services, using
+						<span class="language">Ruby</span>
+						modules and
+						<span class="language">jQuery</span>
+						plugins, which have become the beginnings for a new, internal UI toolkit. This feature was highlighted by multiple technology journals, including
+						<a href="http://www.marketwatch.com/story/spiceworks-launches-free-cloud-service-detection-features-for-small-and-mid-sized-businesses-2012-05-24">MarketWatch</a>
+						and
+						<a href="http://www.zdnet.com/blog/small-business-matters/is-your-smb-running-unauthorized-cloud-apps-find-out/2587">ZDNet</a>.</li>
+					<li>Designed and engineered new Cloud Service management tool with two other developers in first four months at Spiceworks.</li>
+					<li>Started first Spiceworks hack-week, generating 20+ new projects and featured in the
+						<a href="http://online.wsj.com/article/SB10001424052702303459004577360443194890860.html">WSJ</a>
+					</li>
+					<li>Attend conferences and conduct interviews to help grow the Spiceworks development team</li>
+					<li>Host quarterly webinar to teach users about our software</li>
+				</ul>
+			</li>
+			<li class="role">
+				<h4 class="role__title">Software Developer</h4>
+				<span class="role__date date">2011 - 2013</span>
+				<ul class="role__responsibilities">
+					<li>Designing and building new
+						<span class="language">Javascript</span>
+						API for Cloud Service integration platform</li>
+					<li>Designed and built UI for tracking cloud services, using
+						<span class="language">Ruby</span>
+						modules and
+						<span class="language">jQuery</span>
+						plugins, which have become the beginnings for a new, internal UI toolkit. This feature was highlighted by multiple technology journals, including
+						<a href="http://www.marketwatch.com/story/spiceworks-launches-free-cloud-service-detection-features-for-small-and-mid-sized-businesses-2012-05-24">MarketWatch</a>
+						and
+						<a href="http://www.zdnet.com/blog/small-business-matters/is-your-smb-running-unauthorized-cloud-apps-find-out/2587">ZDNet</a>.</li>
+					<li>Designed and engineered new Cloud Service management tool with two other developers in first four months at Spiceworks.</li>
+					<li>Started first Spiceworks hack-week, generating 20+ new projects and featured in the
+						<a href="http://online.wsj.com/article/SB10001424052702303459004577360443194890860.html">WSJ</a>
+					</li>
+					<li>Attend conferences and conduct interviews to help grow the Spiceworks development team</li>
+					<li>Host quarterly webinar to teach users about our software</li>
+				</ul>
+			</li>
+		</ol>
+	</div>
+
+	<div class="organization subsection">
+		<div class="organization__info subsection__header">
+			<h4 class="organization__name"><a href="https://login.cs.utexas.edu/">University of Texas</a></h4>
+			<h5 class="organization__location">Austin, TX</h5>
+		</div>
+		<ol class="roles subsection__body">
+			<li class="role">
+				<h4 class="role__title">Graduate Research Assistant</h4>
+				<span class="role__date date">2009 - 2011</span>
+				<ul class="role__responsibilities">
+					<li>Developed new techniques for proving security of digital signature schemes</li>
+					<li>Created and implemented attacks on the SCiFI secure face identification system in
+						<span class="language">Java</span>
+					</li>
+					<li>Helped to improve the known security of the Camenisch-Lysyanskaya signature scheme</li>
+				</ul>
+			</li>
+		</ol>
+	</div>
+</div>
+
+<div class="section">
+	<h2 class="section__header">Projects</h2>
+	<ol class="projects">
+		<% data.projects.each do |p| %>
+			<li class="project">
+				<%= image_tag p.image, height: '100%', class: 'project-image' %>
+				<h3><%= p.title %></h3>
+				<span class="project__organization"><%= p.role %></span>
+				<span class="project__date"><%= p.date %></span>
+				<ul class="project__responsibilities">
+					<% p.responsibilities.each do |r| %>
+						<li><%= r %></li>
+					<% end %>
+				</ul>
+				<p>Tools: <span class="language"><%= p.tools.join(', ') %></span></p>
+			</li>
+		<% end %>
+	</ol>
+</div>
+
+<div class="section">
+	<h2 class="section__header">Education</h2>
+	<ol class="degrees-and-honors">
+		<li class="degree subsection">
+			<div class="school-info subsection__header">
+				<h4 class="school-info__name"><a href="https://login.cs.utexas.edu/">University of Texas</a></h4>
+				<h5 class="school-info__location">Austin, TX</h5>
+			</div>
+			<div class="school-degree subsection__body">
+				<h4 class="degree__title">M.S. in Computer Science</h4>
+				<span class="degree__date date">2009 - 2012</span>
+				<ul class="degree__details">
+					<li class="degree__advisor">Advisor: Brent Waters</li>
+					<li class="degree__gpa">GPA: 3.8</li>
+				</ul>
+			</div>
+		</li>
+		<li class="degree subsection">
+			<div class="school-info subsection__header">
+				<h4 class="school-info__name"><a href="http://www.williams.edu/">Williams College</a></h4>
+				<h5 class="school-info__location">Williamstown, MA</h5>
+			</div>
+			<div class="school-degree subsection__body">
+				<h4 class="degree__title">B.A. Computer Science <em>with honors</em>
+					and Physics, <em>cum laude</em></h4>
+				<span class="degree__date date">2005 - 2009</span>
+				<ul class="degree__details">
+					<li class="degree__advisor">Advisor: Brent Heeringa</li>
+					<li class="degree__gpa">GPA: 3.9 in major, 3.7 overall</li>
+				</ul>
+			</div>
+		</li>
+		<li class="honors subsection">
+			<h4 class="subsection__header">Honors</h4>
+			<ol class="honors subsection__body">
+				<li>NSF Graduate Research Fellowship HM, UT-Austin <span class="honor__date date">2011<span></li>
+				<li>Sam Goldberg Colloquium Prize, Williams College <span class="honor__date date">2009<span></li>
+				<li>Dean’s Excellence Award, UT-Austin <span class="honor__date date">2009<span></li>
+				<li>Sigma Xi, Science Research Honors Society <span class="honor__date date">2009<span></li>
+				<li>Dean’s List, Williams College <span class="honor__date date">2005-2009<span></li>
+				<li>National Merit Finalist <span class="honor__date date">2005<span></li>
+				<li>National AP Scholar with Distinction <span class="honor__date date">2005<span></li>
+			</ul>
+		</li>
+	</ol>
+</div>
+
+<div class="section">
+	<h2 class="section__header">Hobbies</h2>
+	<p>
+		I've always loved playing competitive sports.  At Williams College, I was
+		the starting goalie for the Varsity Lacrosse Team for all 4 years, being
+		selected <span class="hobby-highlight">Captain and a DIII
+		All-American</span> my senior year.  I was also an
+		<span class="hobby-highlight">assistant coach</span> for the University of
+		Texas Club Lacrosse Team.  In my old age, I like to play
+		<span class="hobby-highlight">flag football</span> and <span class="hobby-highlight">pub trivia</span>.
+	</p>
+</div>
+
+<div class="section">
+	<h2 class="section__header">Publications</h2>
+	<ul class="publications">
+		<li>Andy Luong, Michael Gerbush, Brent Waters and Kristen Grauman.
+			<a href="https://www.cs.utexas.edu/~bwaters/publications/papers/luong-wacv2013.pdf">
+				Reconstructing a fragmented face from a cryptographic identification protocol</a>.
+			<em>IEEE Workshop on Applications of Computer Vision (WACV), 2013</em>.</li>
+		<li>Michael Gerbush, Allison Lewko, Adam O’Neill, and Brent Waters.
+			<a href="https://eprint.iacr.org/2012/261.pdf">
+				Dual form signatures: An approach for proving security from static assumptions</a>.
+			<em>Advances in Cryptology (ASIACRYPT), 2012</em>.</li>
+		<li>Michael Gerbush and Brent Heeringa.
+			<a href="http://cs.williams.edu/~heeringa/publications/ciaa.pdf">Approximating Minimum Reset Sequences</a>.
+			<em>International Conference on Implementation and Application of Automata (CIAA), 2010</em>.</li>
+		<li>Michael Gerbush, Teng Jian Khoo, Daniel J. Phalen, Aaron Pierce, and David Tucker-Smith.
+			<a href="https://arxiv.org/pdf/0710.3133v2.pdf">Color-octet scalars at the CERN LHC</a>.
+			<em>Physical Review D 77, 095003, 2008</em>.</li>
+	</ul>
+</div>

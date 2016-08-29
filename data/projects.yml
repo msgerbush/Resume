@@ -1,0 +1,190 @@
+- title: Spiceworks Cloud Cost Monitor
+  role: Developer &amp; Product Manager, Spiceworks
+  date: 2016
+  image: cloud-money.svg
+  url: 'https://community.spiceworks.com/blogs/products/2434-manage-your-spending-on-iaas-with-the-cloud-cost-monitor?page=1#37153'
+  responsibilities:
+    - >
+        Conducted user interviews and surveys to understand potential cloud
+        tools market.
+    - Designed and pitched solution to internal and external stakeholders
+    - Developed and lead a team to build the product.
+    - Organized private beta test and further interviews with beta users.
+    - >
+        Monitor and report on progress of product growth to internal and
+        external stakeholders.
+    - Helped sell data product for $100K+.
+  tools:
+    - Ruby
+    - Rails
+    - MongoDB
+    - JavaScript
+    - Ember
+    - HTML
+    - CSS
+    - PowerPoint
+    - Tableau
+    - Google Analytics
+
+- title: Spiceworks App Center
+  role: Team Lead, Spiceworks
+  date: 2013-2015
+  responsibilities:
+    - >
+        Lead developer in building App Center site and architecting massive
+        migration of old data.
+    - Hired and led a team of 2 other developers building App Center v2 in Ember.
+    - Grew App Center to 2 teams of 15 people and 10,000 of app downloads.
+    - Independently researched and designed platform architecture for Spiceworks Desktop.
+    - Pitched platform design to Spiceworks executive team.
+    - Presented the Spiceworks App Center at our conference, Spiceworld London.
+  tools:
+    - Ruby
+    - Rails
+    - Postgres
+    - ElasticSearch
+    - JavaScript
+    - Ember
+    - HTML
+    - CSS
+
+- title: Spiceworks Developer Center &amp; Tools
+  role: Team Lead, Spiceworks
+  date: 2013-2015
+  responsibilities:
+    - Designed and built Developer tools and documentation for Spiceworks.
+    - Architected JavaScript API for Spiceworks.
+    - Worked closely with vendors and external developers to beta test APIs and build developer community.
+    - Helped create contractor network for Spiceworks Developers to build apps for 3rd parties.
+    - Lead a Development workshop with IBM at our user conference, Spiceworld Austin.
+  tools:
+    - JavaScript
+    - postMessage
+    - Ruby
+    - Middleman
+    - Github Pages
+    - HTML
+    - CSS
+
+- title: Spiceworks Campus Quiz App
+  role: Side Project, Spiceworks
+  date: 2013
+  responsibilities:
+    - Designed and built a quiz app for more interactive campus recruiting sessions.
+    - Built as a side project on a recruiting trip with one other developer.
+    - Now used as the main recruiting tool at our campus info sessions.
+    - Used the project to demonstrate and evangalize a new Backbone architecture.
+  tools:
+    - Ruby
+    - Rails
+    - JavaScript
+    - Backbone
+    - HTML
+    - CSS
+
+- title: Spiceworks Cloud Services Discovery
+  role: Team Lead, Spiceworks
+  date: 2013
+  responsibilities:
+    - >
+        Lead a team of 5 in designing and developing a large new feature in the
+        Desktop application, in my second year at Spiceworks.
+    - Helped standardize company-wide practices around Backbone framework.
+  tools:
+    - Ruby
+    - Rails
+    - JavaScript
+    - Backbone
+    - HTML
+    - CSS
+    - Photoshop
+
+- title: Sentiment Analysis of Tweets from the Occupy Movement
+  role: Cognitive Science, UT-Austin
+  date: 2011
+  responsibilities:
+    - >
+        Collected tweets related to the Occupy movement and conducted a sentiment
+        analysis to gauge the emotional response of different US cities.
+    - Presented work at Dorkbot hackerspace in Austin, TX.
+  tools:
+    - Python
+    - ScipPy
+    - Twitter API
+    - Keynote
+
+- title: 'Reversing SCiFI: Breaking Secure Facial Recognition'
+  role: Cryptography Research, UT-Austin
+  date: 2011
+  responsibilities:
+    - >
+        Proved and implemented a cryptographic attack on SCiFI, a well-regarded,
+        'secure' facial recognition algorithm.
+    - Work was published at <em>WACV 2013</em>.
+  tools:
+    - Java
+    - TeX
+
+- title: Synthesizing 3D Textures from 2D Exemplars
+  role: Computer Graphics, UT-Austin
+  date: 2010
+  responsibilities:
+    - >
+        Implemented techniques from <em>SIGGRAPH 2007</em> for intelligently
+        synthesizing 3D textures from 2D exemplars.
+  tools:
+    - C++
+    - OpenGL
+
+- title: Approximating Stack Covers
+  role: Senior Thesis, Williams College
+  date: 2009
+  responsibilities:
+    - >
+        Developed a natural generalization to an open combinatorial
+        problem and established dual bounds for the complexity of finding
+        an approximate solution.
+    - >
+        Awarded the Sam Goldberg Colloquium Prize for presenting the work,
+        which was published in <em>CIAA 2010</em>.
+  tools:
+    - TeX
+    - Keynote
+
+- title: Creating 3D Models from Video Input
+  role: Computer Graphics, Williams College
+  date: 2008
+  responsibilities:
+    - >
+        Attempted to analyze video from a handheld video camera and create
+        a 3D model of the filmed object.
+  tools:
+    - C++
+    - OpenCV
+    - G3D
+
+- title: 'Winning Formula: Learning to Predict College Basketball Games'
+  role: Artificial Intelligence, Williams College
+  date: 2007
+  responsibilities:
+    - >
+        Used Genetic Programming algorithms on predicting results for the NCAA
+        Men’s Basketball Championship.
+  tools:
+    - Lisp
+    - Java
+
+- title: Color-octet scalars at the CERN LHC
+  role: Physics Research Assistant, Williams College
+  date: 2007
+  responsibilities:
+    - >
+        Programatically analyzed large data sets from particle accelerator
+        simulations.
+    - >
+        Helped design new techniques for finding significant events amongst
+        background noise. The work was published in <em>Physical Review D</em>.
+  tools:
+    - C++
+    - Fortran
+    - Perl
