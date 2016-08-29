@@ -11,7 +11,7 @@
     - Product plan helped sell data package of over $100K
     - Developed and then led a team of 9 to build and launch the tool
     - Organized a private beta test and further interviews with beta users
-    - Continuously track and work to improve product growth
+    - Created OKRs and analytics strategy to track and improve product growth
   tools:
     - Ruby
     - Rails
@@ -30,14 +30,14 @@
   image: app-center.png
   url: 'https://community.spiceworks.com/appcenter/home'
   responsibilities:
-    - >
-        Acted as Lead Developer building the App Center and architecting large
-        migration of old data
+    - Acted as Lead Developer building the App Center
     - Hired and led a team of 3 developers building App Center v2 in Ember
+    - Architected migration from 7 year old monorail to DRY microservice
     - Helped grow App Center to 2 teams of 15 people and tens of thousands of app downloads
     - Independently researched and designed platform architecture for Spiceworks Desktop
     - Pitched platform design to Spiceworks executive team
     - Presented the Spiceworks App Center at our conference, Spiceworld London
+    - "Featured in <a class='project__inner-link' href='http://www.zdnet.com/article/its-unanimous-the-spiceworks-app-center-is-a-hit/'>ZDNet</a>"
   tools:
     - Ruby
     - Rails

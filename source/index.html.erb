@@ -97,23 +97,22 @@ title: Michael Gerbush - Resume
 	<h2 class="section__header">Projects</h2>
 	<ol class="projects">
 		<% data.projects.each do |p| %>
-			<li class="project" id="<%= p.title.underscore.split.join('-') %>">
-				<% link_to p.url do %>
-					<% if p.image %>
-						<%= image_tag p.image, height: '100%', class: 'project__image' %>
-					<% end %>
-					<div class="project__details">
-						<h4><%= p.title %></h4>
-						<span class="project__organization"><%= p.role %></span>
-						<span class="project__date date"><%= p.date %></span>
-						<ul class="project__responsibilities">
-							<% p.responsibilities.each do |r| %>
-								<li><%= r %></li>
-							<% end %>
-						</ul>
-						<p>Tools: <span class="language"><%= p.tools.join(', ') %></span></p>
-					</div>
+			<li class="project" id='<%= p.title.underscore.split.join('-') -%>'>
+				<%= link_to '', p.url, class: 'project__link' %>
+				<% if p.image %>
+					<%= image_tag p.image, height: '100%', class: 'project__image' %>
 				<% end %>
+				<div class="project__details">
+					<h4><%= p.title -%></h4>
+					<span class="project__organization"><%= p.role -%></span>
+					<span class="project__date date"><%= p.date -%></span>
+					<ul class="project__responsibilities">
+						<% p.responsibilities.each do |r| %>
+							<li><%= r -%></li>
+						<% end %>
+					</ul>
+					<p>Tools: <span class="language"><%= p.tools.join(', ') -%></span></p>
+				</div>
 			</li>
 		<% end %>
 	</ol>
