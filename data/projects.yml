@@ -7,13 +7,11 @@
     - >
         Conducted user interviews and surveys to understand potential cloud
         tools market.
-    - Designed and pitched solution to internal and external stakeholders
-    - Developed and lead a team to build the product.
-    - Organized private beta test and further interviews with beta users.
-    - >
-        Monitor and report on progress of product growth to internal and
-        external stakeholders.
-    - Helped sell data product for $100K+.
+    - Designed and pitched solution to internal and external stakeholders.
+    - Product plan helped sell data package of over $100K.
+    - Developed and then lead a team of 9 to build and launch the tool.
+    - Organized a private beta test and further interviews with beta users.
+    - Continuously track and work to improve product growth.
   tools:
     - Ruby
     - Rails
@@ -29,12 +27,14 @@
 - title: Spiceworks App Center
   role: Team Lead, Spiceworks
   date: 2013-2015
+  image: app-center.png
+  url: 'https://community.spiceworks.com/appcenter/home'
   responsibilities:
     - >
-        Lead developer in building App Center site and architecting massive
+        Acted as lead developer building the App Center and architecting large
         migration of old data.
-    - Hired and led a team of 2 other developers building App Center v2 in Ember.
-    - Grew App Center to 2 teams of 15 people and 10,000 of app downloads.
+    - Hired and led a team of 3 developers building App Center v2 in Ember.
+    - Helped grow App Center to 2 teams of 15 people and tens of thousands of app downloads.
     - Independently researched and designed platform architecture for Spiceworks Desktop.
     - Pitched platform design to Spiceworks executive team.
     - Presented the Spiceworks App Center at our conference, Spiceworld London.
@@ -51,11 +51,12 @@
 - title: Spiceworks Developer Center &amp; Tools
   role: Team Lead, Spiceworks
   date: 2013-2015
+  image: developer-center.png
+  url: 'https://developers.spiceworks.com'
   responsibilities:
-    - Designed and built Developer tools and documentation for Spiceworks.
+    - Designed and built developer tools and documentation for Spiceworks.
     - Architected JavaScript API for Spiceworks.
     - Worked closely with vendors and external developers to beta test APIs and build developer community.
-    - Helped create contractor network for Spiceworks Developers to build apps for 3rd parties.
     - Lead a Development workshop with IBM at our user conference, Spiceworld Austin.
   tools:
     - JavaScript
@@ -69,6 +70,8 @@
 - title: Spiceworks Campus Quiz App
   role: Side Project, Spiceworks
   date: 2013
+  image: quiz-app.png
+  url: 'http://puzzle.spiceworks.com'
   responsibilities:
     - Designed and built a quiz app for more interactive campus recruiting sessions.
     - Built as a side project on a recruiting trip with one other developer.
@@ -85,11 +88,13 @@
 - title: Spiceworks Cloud Services Discovery
   role: Team Lead, Spiceworks
   date: 2013
+  image: cloud-services.jpg
+  url: 'https://www.spiceworks.com/free-cloud-computing-management-tools/'
   responsibilities:
     - >
-        Lead a team of 5 in designing and developing a large new feature in the
-        Desktop application, in my second year at Spiceworks.
-    - Helped standardize company-wide practices around Backbone framework.
+        In second year at Spiceworks, lead a team of 5 in designing and developing a large new feature in our
+        Desktop application.
+    - Helped standardize company-wide practices around UI modules and Backbone framework.
   tools:
     - Ruby
     - Rails
@@ -102,6 +107,8 @@
 - title: Sentiment Analysis of Tweets from the Occupy Movement
   role: Cognitive Science, UT-Austin
   date: 2011
+  image: twitter-occupy.png
+  url: 'http://www.slideshare.net/msgerbush/sentiment-analysis-of-the-occupy-movement'
   responsibilities:
     - >
         Collected tweets related to the Occupy movement and conducted a sentiment
@@ -116,6 +123,8 @@
 - title: 'Reversing SCiFI: Breaking Secure Facial Recognition'
   role: Cryptography Research, UT-Austin
   date: 2011
+  image: reversing-scifi.png
+  url: 'https://www.cs.utexas.edu/~bwaters/publications/papers/luong-wacv2013.pdf'
   responsibilities:
     - >
         Proved and implemented a cryptographic attack on SCiFI, a well-regarded,
@@ -128,6 +137,8 @@
 - title: Synthesizing 3D Textures from 2D Exemplars
   role: Computer Graphics, UT-Austin
   date: 2010
+  image: synthesizing-textures.bmp
+  url: 'https://www.cs.utexas.edu/~fussell/courses/cs384g/projects/final/artifacts/harsh/cs384g_final_proj.html'
   responsibilities:
     - >
         Implemented techniques from <em>SIGGRAPH 2007</em> for intelligently
@@ -139,10 +150,12 @@
 - title: Approximating Stack Covers
   role: Senior Thesis, Williams College
   date: 2009
+  image: stackcover.png
+  url: 'http://cs.williams.edu/~heeringa/publications/ciaa.pdf'
   responsibilities:
     - >
         Developed a natural generalization to an open combinatorial
-        problem and established dual bounds for the complexity of finding
+        problem and proposed dual bounds for the complexity of finding
         an approximate solution.
     - >
         Awarded the Sam Goldberg Colloquium Prize for presenting the work,
@@ -150,41 +163,3 @@
   tools:
     - TeX
     - Keynote
-
-- title: Creating 3D Models from Video Input
-  role: Computer Graphics, Williams College
-  date: 2008
-  responsibilities:
-    - >
-        Attempted to analyze video from a handheld video camera and create
-        a 3D model of the filmed object.
-  tools:
-    - C++
-    - OpenCV
-    - G3D
-
-- title: 'Winning Formula: Learning to Predict College Basketball Games'
-  role: Artificial Intelligence, Williams College
-  date: 2007
-  responsibilities:
-    - >
-        Used Genetic Programming algorithms on predicting results for the NCAA
-        Men’s Basketball Championship.
-  tools:
-    - Lisp
-    - Java
-
-- title: Color-octet scalars at the CERN LHC
-  role: Physics Research Assistant, Williams College
-  date: 2007
-  responsibilities:
-    - >
-        Programatically analyzed large data sets from particle accelerator
-        simulations.
-    - >
-        Helped design new techniques for finding significant events amongst
-        background noise. The work was published in <em>Physical Review D</em>.
-  tools:
-    - C++
-    - Fortran
-    - Perl

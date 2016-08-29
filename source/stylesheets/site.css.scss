@@ -88,3 +88,50 @@
 .hobby-highlight {
   color: $light-red;
 }
+
+.project {
+  position: relative;
+  background-color: $dark-blue;
+  opacity: 0.85;
+  color: white;
+  border-radius: 3px;
+  transition: opacity .25s ease-in-out;
+
+  a {
+    @include unstyled-link;
+  }
+
+  &:hover {
+    opacity: 0.95;
+
+    .project__image {
+      width: span(3.5);
+      opacity: 0.35;
+    }
+  }
+
+  + .project {
+    margin-top: rhythm(1);
+  }
+}
+
+.project__responsibilities {
+  padding-top: rhythm(1);
+  padding-bottom: rhythm(1);
+}
+
+.project__image {
+  position: absolute;
+  opacity: 0.15;
+  width: span(3);
+  height: auto;
+  top: rhythm(2);
+  right: rhythm(2);
+  z-index: -1;
+  transition: all .25s ease-in-out;
+}
+
+.project__details {
+  position: relative;
+  padding: rhythm(2);
+}
