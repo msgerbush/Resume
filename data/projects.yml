@@ -39,7 +39,7 @@
   url: 'https://personalvu.com'
   responsibilities:
     - >
-        Lead a team of developers, QA engineers, and a designer to develop an
+        Led a team of developers, QA engineers, and a designer to develop an
         online informed consent and billing solution for Preimplantation Genetic
         Screening
     - >
@@ -88,6 +88,34 @@
     - CSS
     - Tableau
     - JIRA
+
+- title: Patient Portal Rewrite
+  role: Architect &amp; Engineering Lead, Good Start Genetics
+  date: 2016-2017
+  image: vue-logo.png
+  url: 'https://personalvu.com'
+  responsibilities:
+    - Developed and led ground-up rewrite of patient portal frontend and API
+    - Established VueJS code structure and best practices
+    - >
+        Established REST API guidelines, documentation, and testing using API
+        Blueprint
+    - >
+        Completed frontend rewrite within tight timeline of <a
+        class='project__inner-link' href="#flip-to-cash-billing-program">Flip to
+        Cash</a> project
+  tools:
+    - VueJS
+    - API Blueprint
+    - Dredd
+    - Groovy
+    - Grails
+    - Codenarc
+    - Bamboo
+    - PostgreSQL
+    - ActiveMQ
+    - HTML
+    - CSS
 
 - title: Spiceworks Cloud Cost Monitor
   role: Lead Developer &amp; Product Manager, Spiceworks
