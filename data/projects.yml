@@ -1,3 +1,94 @@
+- title: Flip to Cash Billing Program
+  role: Lead Developer &amp; Product Manager, Good Start Genetics
+  date: 2016-2017
+  image: ftc-screenshot.png
+  url: 'https://personalvu.com'
+  responsibilities:
+    - >
+        Developed and led Scrum team to build and launch new billing solution in
+        first 3 months at Good Start
+    - >
+        Architected scalable infrastructure for doing benefit invesitgations and
+        accepting payments
+    - >
+        Worked with finanace, client services, sales and external vendor teams
+        to understand complex requirements for insurance and self pay billing
+        process
+    - Trained sales and client services team on new billing solution
+    - Organized pilot launch and collected feedback from select clinics
+    - Created OKRs and analytics strategy to track product success
+    - Collected $2M+ and counting in online payments through Stripe
+  tools:
+    - Stripe
+    - Groovy
+    - Grails
+    - PostgreSQL
+    - ActiveMQ
+    - VueJS
+    - HTML
+    - CSS
+    - Mirth Connect
+    - Google Analytics
+    - Tableau
+    - JIRA
+
+- title: PGS Billing & Informed Consent
+  role: Architect &amp; Product Manager, Good Start Genetics
+  date: 2017 (ongoing)
+  image: pgs-ic-screenshot.png
+  url: 'https://personalvu.com'
+  responsibilities:
+    - >
+        Lead a team of developers, QA engineers, and a designer to develop an
+        online informed consent and billing solution for Preimplantation Genetic
+        Screening
+    - >
+        Gathered requirements from genetic counselors, clinics, sales, finance,
+        and client services teams for complex billing and consenting process
+    - Designed, documented, and pitched solutions to stakeholders
+    - Architected a scalable payment platform and document signing solution
+    - Developed OKRs and Tableau reporting to monitor product success
+  tools:
+    - Stripe
+    - EngagedMD
+    - DocuSign
+    - Groovy
+    - Grails
+    - PostgreSQL
+    - ActiveMQ
+    - VueJS
+    - HTML
+    - CSS
+    - Google Analytics
+    - Tableau
+    - JIRA
+
+- title: Patient Text Notifications
+  role: Engineering Lead &amp; Product Manager, Good Start Genetics
+  date: 2017
+  image: twilio-logo.svg
+  url: 'https://personalvu.com'
+  responsibilities:
+    - >
+        Based on analytics from <a class='project__inner-link'
+        href="#flip-to-cash-billing-program">Flip to Cash</a> project, designed
+        and pitched text notifications to improve user engagement
+    - >
+        Developed and led Scrum team to build and launch the tool in less than 1
+        month
+    - Improved patient portal registration rate by ~20%
+  tools:
+    - Twilio
+    - Groovy
+    - Grails
+    - PostgreSQL
+    - ActiveMQ
+    - VueJS
+    - HTML
+    - CSS
+    - Tableau
+    - JIRA
+
 - title: Spiceworks Cloud Cost Monitor
   role: Lead Developer &amp; Product Manager, Spiceworks
   date: 2016
